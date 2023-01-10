@@ -1,5 +1,5 @@
 import java.time.Duration;
-import org.junit.*;
+//import org.junit.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.*;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -16,7 +16,7 @@ public class Main
         wd.manage().window().maximize();
 
         String user = "stephen.nguyen@musthavemenus.com";
-        String pass = "mhmfun123";
+        String pass = "blank";
         String design = "https://www.musthavemenus.com/xstage/design?id=872f4f7b-13ee-4688-8932-292fb15cf96f";
 
         //MainAppTest mainApp = new MainAppTest(wd, wait, user, "wrongPassHere", pass, 
