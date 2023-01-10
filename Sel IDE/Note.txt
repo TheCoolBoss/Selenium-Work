@@ -1,0 +1,2 @@
+This is a .side file from using Selenium IDE
+It has not been updated since using WebDriver, but it might be useful later
